@@ -23,7 +23,7 @@ function Hero() {
             className="text-white text-3xl lg:text-5xl font-bold drop-shadow-2xl"
             style={{ fontFamily: "'Poppins', sans-serif" }}
           >
-            LUSH CLEANING
+            Bently Arcitects
           </p>
         </div>
       </div>
